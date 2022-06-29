@@ -1,3 +1,4 @@
 #!/bin/bash
 
-ech "Hello world"
+echo "Hello world"
+echo "Another code"
